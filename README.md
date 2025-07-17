@@ -4,7 +4,7 @@ Responsive image slider with smooth transitions, dark overlay, and nature-based 
 
 ## 🎥 Demo
 
-[Watch Demo Video](demo.mp4)
+🎥 [Watch Demo](demo.mp4)
 
 > Created as a frontend practice project.
 
